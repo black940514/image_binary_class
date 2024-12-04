@@ -1,0 +1,13 @@
+{"time":"2024-12-04T17:18:39.50731+09:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-04T17:18:39.507352+09:00","level":"INFO","msg":"created symlink","path":"/Users/taeyoun/Downloads/DeepLearning/project/Image_DL_Fastcampus/Project/1-1 imagebinary/wandb/run-20241204_171835-0ivr16mu/logs/debug-core.log"}
+{"time":"2024-12-04T17:18:39.646649+09:00","level":"INFO","msg":"created new stream","id":"0ivr16mu"}
+{"time":"2024-12-04T17:18:39.646695+09:00","level":"INFO","msg":"stream: started","id":"0ivr16mu"}
+{"time":"2024-12-04T17:18:39.646704+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"0ivr16mu"}
+{"time":"2024-12-04T17:18:39.646723+09:00","level":"INFO","msg":"handler: started","stream_id":"0ivr16mu"}
+{"time":"2024-12-04T17:18:39.646715+09:00","level":"INFO","msg":"sender: started","stream_id":"0ivr16mu"}
+{"time":"2024-12-04T17:18:39.935777+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-04T17:55:55.557286+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/datafullstack0514-person/test/0ivr16mu/file_stream\": read tcp 172.30.1.30:64550->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-04T18:00:25.542899+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/datafullstack0514-person/test/0ivr16mu/file_stream\": read tcp 172.30.1.30:65124->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-04T18:10:25.508996+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/datafullstack0514-person/test/0ivr16mu/file_stream\": read tcp 172.30.1.30:49409->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-04T18:10:40.520865+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/datafullstack0514-person/test/0ivr16mu/file_stream\": read tcp 172.30.1.30:49490->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-04T18:43:10.628539+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/datafullstack0514-person/test/0ivr16mu/file_stream\": read tcp 172.30.1.30:51282->35.186.228.49:443: read: connection reset by peer"}

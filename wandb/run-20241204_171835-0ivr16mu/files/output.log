@@ -1,0 +1,7 @@
+[RAdam] Epoch 1, Train Loss: 0.671365, Val Loss: 0.612218, Validation Accuracy: 87.64%
+[RAdam] Epoch 2, Train Loss: 0.564042, Val Loss: 0.485367, Validation Accuracy: 89.89%
+[RAdam] Epoch 3, Train Loss: 0.436826, Val Loss: 0.347742, Validation Accuracy: 91.01%
+[RAdam] Epoch 4, Train Loss: 0.320154, Val Loss: 0.248084, Validation Accuracy: 90.64%
+[RAdam] Epoch 5, Train Loss: 0.237984, Val Loss: 0.201682, Validation Accuracy: 92.88%
+/var/folders/dr/74f443cx0ljg_9kz1_q1ylv80000gn/T/ipykernel_6275/2146829436.py:29: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`). Consider using `matplotlib.pyplot.close()`.
+  plt.figure(figsize=(20, 8))

@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "3.12.7",
+  "startedAt":  "2024-12-04T08:12:39.359017Z",
+  "program":  "/Users/taeyoun/Downloads/DeepLearning/project/Image_DL_Fastcampus/Project/1-1 imagebinary/santa_bin_class_VGGNet.ipynb",
+  "git":  {
+    "remote":  "https://github.com/black940514/image_binary_class.git",
+    "commit":  "4a4292c906e062b5d1d5bbc2c51d26a0e2379ae1"
+  },
+  "email":  "xodus4354@gmail.com",
+  "root":  "/Users/taeyoun/Downloads/DeepLearning/project/Image_DL_Fastcampus/Project/1-1 imagebinary",
+  "host":  "gimtaeyeon-ui-MacBookAir.local",
+  "username":  "taeyoun",
+  "executable":  "/opt/anaconda3/envs/imagebinary/bin/python",
+  "codePathLocal":  "santa_bin_class_VGGNet.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "478230122496"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16
+  }
+}
